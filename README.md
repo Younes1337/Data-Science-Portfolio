@@ -30,7 +30,7 @@
 ✔️ Projects\
 ✔️ Contact\
 <br>
-To view a live example, **[click here](https://youness-mamma.netlify.app/)**
+To view a live example, **[click here](https://resplendent-souffle-22ee7d.netlify.app)**
 
 # Clone And Use 📋
 
