@@ -39,7 +39,7 @@ To view a live example, **[click here](https://youness-mamma.netlify.app/)**
 - In case you want to help developing it or simply saving it, you can fork the repository just by clicking the button on the top-right corner of this page.
 - After the successful installation of `nodejs` and `npm`, clone the repository into your local system using below command:
   - ```python
-     git clone https://github.com/rohankokkula/datasciencefolio.git
+     git clone https://github.com/Younes1337/Data-Science-Portfolio.git
     ```
   - This will clone the whole repository in your system.
 - `nvm use` to use the project's v12 node version so you don't have to see millions of node module errors :) 
