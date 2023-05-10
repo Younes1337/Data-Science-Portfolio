@@ -19,7 +19,7 @@
 </p>
 <p align="center"> 
     <a href="https://youness-mamma.netlify.app" target="_blank">
-    <img src="repo_images/landing_page.png></img>
+    <img src="repo_images/landing_page.png"></img>
   </a>
 </p>
 
